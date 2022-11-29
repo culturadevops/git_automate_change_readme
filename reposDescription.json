@@ -1,0 +1,9 @@
+[
+    {
+        "Git": "https://github.com/culturadevops/ecs_para_principiantes.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/terraform-docker-and-codepipeline.git"
+    }
+
+]

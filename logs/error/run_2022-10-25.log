@@ -1,0 +1,6 @@
+2022/10/25 20:02:47 [Error]: (jlog.go:62) (jlog.go:109) (jlog.go:102) (jfile.go:145) (root.go:68) (root.go:86) (main.go:21): open test/Readme.md: no such file or directory-%!(EXTRA <nil>)
+2022/10/25 20:03:44 [Error]:main.go:21: open test/Readme.md: no such file or directory-%!(EXTRA <nil>)
+2022/10/25 20:09:41 [Error]:main.go:21: open test/README.md1: no such file or directory-%!(EXTRA <nil>)
+2022/10/25 20:15:22 [Error]:main.go:21: open test/README.md: no such file or directory-%!(EXTRA <nil>)
+2022/10/25 20:19:18 [Error]:main.go:21: open test/README.md: no such file or directory-%!(EXTRA <nil>)
+2022/10/25 20:21:17 [Error]:main.go:21: open test/README.md: no such file or directory-%!(EXTRA <nil>)

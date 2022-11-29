@@ -1,0 +1,74 @@
+[
+    {
+        "Git": "https://github.com/culturadevops/ecs_para_principiantes.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/terraform-docker-and-codepipeline.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/lambda_authorizer_with_awssam.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/dockerfiles_hub.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/jenkins.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/terraformejercicio.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/sns_examples.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/golang"
+    },
+    {
+        "Git": "https://github.com/culturadevops/CI_CD_SAM_lambda_golang_gin.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/fibercli.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/miniflyaway.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/jgt.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/cindi.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/gocore.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/miniflyaway.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/kotlin_on_aws.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/nodejs_on_aws.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/hex.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/awsTranslate.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/GORM.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/echo_configServer.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/jaivic.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/webcindiiris.git"
+    },
+    {
+        "Git": "https://github.com/culturadevops/jaguweb.git"
+    }
+]
